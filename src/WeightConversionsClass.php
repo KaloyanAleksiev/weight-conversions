@@ -2,4 +2,6 @@
 
 namespace KaloyanAleksiev\WeightConversions;
 
-class WeightConversionsClass {}
+class WeightConversionsClass
+{
+}
