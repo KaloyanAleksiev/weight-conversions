@@ -1,7 +1,7 @@
 # Weight Conversions in PHP
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/kaloyanaleksiev/weight-conversions.svg?style=flat-square)](https://packagist.org/packages/kaloyanaleksiev/weight-conversions)
-[![Tests](https://github.com/KaloyanAleksiev/weight-conversions/actions/workflows/run-tests.yml/badge.svg?branch=main)](https://github.com/kaloyanaleksiev/weight-conversions/actions/workflows/run-tests.yml)
+[![Tests](https://img.shields.io/github/actions/workflow/status/kaloyanaleksiev/weight-conversions/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/kaloyanaleksiev/weight-conversions/actions/workflows/run-tests.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/kaloyanaleksiev/weight-conversions.svg?style=flat-square)](https://packagist.org/packages/kaloyanaleksiev/weight-conversions)
 
 This is where your description should go. Try and limit it to a paragraph or two. Consider adding a small example.
