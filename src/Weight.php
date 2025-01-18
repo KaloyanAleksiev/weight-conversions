@@ -17,4 +17,9 @@ class Weight
     {
         return $this->kilometers * 2.2046;
     }
+
+    public function toStones(): float
+    {
+        return $this->kilometers * 0.15747;
+    }
 }
